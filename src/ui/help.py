@@ -32,7 +32,7 @@ def render_help_page():
     - **Goal Seek Mode:** Automated search for profitable parameter configurations using historical backtesting.
     - **Cloud Integration:** Offload heavy computations to Google Cloud Run (optional).
 
-    **Built by Raelta**
+    **Built by Caelim**
     """)
     
     st.markdown("---")

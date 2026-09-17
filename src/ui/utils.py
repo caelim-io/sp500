@@ -197,4 +197,4 @@ def render_version_info():
     """
     ver = get_app_version()
     st.sidebar.markdown(f"**Version:** v0.1.{ver['count']} ({ver['hash']}) - {ver['date']}")
-    st.sidebar.markdown("**Built by Raelta**")
+    st.sidebar.markdown("**Built by Caelim**")
